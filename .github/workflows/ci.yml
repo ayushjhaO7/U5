@@ -35,8 +35,8 @@ jobs:
 
     - name: Build & Launch Docker Stack
       run: |
-        docker-compose build
-        docker-compose up -d
+        docker compose build
+        docker compose up -d
         sleep 15
 
     - name: Verify Dashboard
@@ -50,4 +50,4 @@ jobs:
     - name: Cleanup
       if: always()
       run: |
-        docker-compose down -v
+        docker compose down -v

@@ -34,9 +34,29 @@ def preprocess(input_csv, output_csv):
     df = df[~df['DISTRICT'].str.contains('TOTAL', case=False, na=False)]
     df['STATE/UT'] = df['STATE/UT'].apply(normalize_state)
     
-    # 2. Extract & Aggregate: Top features by State/District
-    cols = ['STATE/UT', 'DISTRICT'] + TOP_CRIMES
-    features = df[cols].groupby(['STATE/UT', 'DISTRICT']).sum().reset_index()
+    # 2. Handle long-format CSV (crime_type + crime_count columns)
+    #    Pivot to wide format: one column per crime type
+    if 'crime_type' in df.columns and 'crime_count' in df.columns:
+        df['crime_type'] = df['crime_type'].str.upper().str.strip()
+        # Filter to only the top crime types
+        df_filtered = df[df['crime_type'].isin(TOP_CRIMES)]
+        # Pivot: rows = (STATE/UT, DISTRICT), columns = crime_type, values = crime_count
+        features = df_filtered.pivot_table(
+            index=['STATE/UT', 'DISTRICT'],
+            columns='crime_type',
+            values='crime_count',
+            aggfunc='sum',
+            fill_value=0
+        ).reset_index()
+        # Ensure all TOP_CRIMES columns exist (fill missing with 0)
+        for crime in TOP_CRIMES:
+            if crime not in features.columns:
+                features[crime] = 0
+        features = features[['STATE/UT', 'DISTRICT'] + TOP_CRIMES]
+    else:
+        # Wide-format CSV: columns already match crime names
+        cols = ['STATE/UT', 'DISTRICT'] + TOP_CRIMES
+        features = df[cols].groupby(['STATE/UT', 'DISTRICT']).sum().reset_index()
     
     print(f"Exporting cleaned matrix ({len(features)} districts) to {output_csv}")
     features.to_csv(output_csv, index=False)
