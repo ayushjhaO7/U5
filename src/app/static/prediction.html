@@ -1,30 +1,128 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Operational Hub | AI Command Center</title>
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap"
+        rel="stylesheet">
     <style>
-        :root { --bg: #030712; --card: rgba(17, 24, 39, 0.7); --border: rgba(255, 255, 255, 0.08); --accent: #6366f1; --high: #ef4444; --med: #f59e0b; --low: #10b981; --text: #f9fafb; --text-muted: #9ca3af; }
-        * { margin:0; padding:0; box-sizing:border-box; }
-        body { background: var(--bg); color: var(--text); font-family: 'Plus Jakarta Sans'; height: 100vh; display: flex; align-items: center; justify-content: center; padding: 2rem; }
-        #container { display: grid; grid-template-columns: 320px 1fr; gap: 1.5rem; width: 100%; max-width: 1400px; height: 800px; }
-        .panel { background: var(--card); backdrop-filter: blur(30px); border: 1px solid var(--border); border-radius: 24px; padding: 2rem; display: flex; flex-direction: column; overflow: hidden; }
-        select, textarea { width: 100%; padding: 1rem; background: #000; border: 1px solid var(--border); border-radius: 12px; color: #fff; margin-bottom: 1rem; outline: none; transition: 0.3s; }
-        select:focus, textarea:focus { border-color: var(--accent); }
-        .results { flex: 1; overflow-y: auto; background: rgba(0,0,0,0.3); border-radius: 16px; border: 1px solid var(--border); position: relative; }
-        table { width: 100%; border-collapse: collapse; font-size: 0.75rem; }
-        th { text-align: left; padding: 1rem; background: rgba(255,255,255,0.05); color: var(--text-muted); }
-        td { padding: 1rem; border-bottom: 1px solid var(--border); }
-        .risk-box { margin-top: 1rem; padding: 1.5rem; border-radius: 16px; text-align: center; display: none; border: 1px solid var(--border); }
+        :root {
+            --bg: #030712;
+            --card: rgba(17, 24, 39, 0.7);
+            --border: rgba(255, 255, 255, 0.08);
+            --accent: #6366f1;
+            --high: #ef4444;
+            --med: #f59e0b;
+            --low: #10b981;
+            --text: #f9fafb;
+            --text-muted: #9ca3af;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            font-family: 'Plus Jakarta Sans';
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
+
+        #container {
+            display: grid;
+            grid-template-columns: 320px 1fr;
+            gap: 1.5rem;
+            width: 100%;
+            max-width: 1400px;
+            height: 800px;
+        }
+
+        .panel {
+            background: var(--card);
+            backdrop-filter: blur(30px);
+            border: 1px solid var(--border);
+            border-radius: 24px;
+            padding: 2rem;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        select,
+        textarea {
+            width: 100%;
+            padding: 1rem;
+            background: #000;
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            color: #fff;
+            margin-bottom: 1rem;
+            outline: none;
+            transition: 0.3s;
+        }
+
+        select:focus,
+        textarea:focus {
+            border-color: var(--accent);
+        }
+
+        .results {
+            flex: 1;
+            overflow-y: auto;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 16px;
+            border: 1px solid var(--border);
+            position: relative;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.75rem;
+        }
+
+        th {
+            text-align: left;
+            padding: 1rem;
+            background: rgba(255, 255, 255, 0.05);
+            color: var(--text-muted);
+        }
+
+        td {
+            padding: 1rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .risk-box {
+            margin-top: 1rem;
+            padding: 1.5rem;
+            border-radius: 16px;
+            text-align: center;
+            display: none;
+            border: 1px solid var(--border);
+        }
     </style>
 </head>
+
 <body>
     <div id="container">
         <div class="panel">
             <h1 style="font-size:1.2rem; margin-bottom:1.5rem">🎯 Predictor</h1>
-            <select id="state-sel" onchange="loadDist()"><option>Loading...</option></select>
-            <select id="dist-sel" onchange="predict()"><option>Select State</option></select>
+            <select id="state-sel" onchange="loadDist()">
+                <option>Loading...</option>
+            </select>
+            <select id="dist-sel" onchange="predict()">
+                <option>Select State</option>
+            </select>
             <div id="risk-out" class="risk-box">
                 <div id="risk-val" style="font-size:2rem; font-weight:800">--</div>
                 <div id="risk-det" style="font-size:0.7rem; margin-top:1rem; opacity:0.7; text-align:left"></div>
@@ -32,57 +130,73 @@
         </div>
         <div class="panel">
             <div style="display:flex; justify-content:space-between; margin-bottom:1.5rem">
-                <div><h1 style="font-size:1.2rem">⚡ AI Analytical Hub</h1><p style="color:var(--text-muted); font-size:0.75rem">Spark SQL Engine</p></div>
-                <span style="font-size:0.6rem; color:var(--low); font-weight:800; border:1px solid; padding:4px 8px; border-radius:99px">SPARK ON</span>
+                <div>
+                    <h1 style="font-size:1.2rem">Analytical Hub</h1>
+                    <p style="color:var(--text-muted); font-size:0.75rem">Spark SQL Engine</p>
+                </div>
+                <span
+                    style="font-size:0.6rem; color:var(--low); font-weight:800; border:1px solid; padding:4px 8px; border-radius:99px">SPARK
+                    ON</span>
             </div>
-            <select id="sql-sel" onchange="run()"><option value="">Choose Topic...</option>
-                <option value="1">Yearly Top 3 States</option><option value="2">Avg Crime Pulse</option>
-                <option value="3">Murder vs Theft</option><option value="4">Danger Zones</option>
-                <option value="5">Women Safety</option><option value="6">IPC Trends</option>
+            <select id="sql-sel" onchange="run()">
+                <option value="">Choose Topic...</option>
+                <option value="1">Yearly Top 3 States</option>
+                <option value="2">Avg Crime Pulse</option>
+                <option value="3">Murder vs Theft</option>
+                <option value="4">Danger Zones</option>
+                <option value="5">Women Safety</option>
+                <option value="6">IPC Trends</option>
                 <option value="custom">Custom Query...</option>
             </select>
-            <div id="custom-box" style="display:none"><textarea id="sql-txt" placeholder="SELECT * FROM crimes..."></textarea><button onclick="exec(document.getElementById('sql-txt').value)" style="width:100%; padding:1rem; background:var(--accent); border:none; border-radius:12px; color:#fff; cursor:pointer">EXECUTE</button></div>
-            <div id="res-box" class="results"><div id="table-out"></div></div>
+            <div id="custom-box" style="display:none"><textarea id="sql-txt"
+                    placeholder="SELECT * FROM crimes..."></textarea><button
+                    onclick="exec(document.getElementById('sql-txt').value)"
+                    style="width:100%; padding:1rem; background:var(--accent); border:none; border-radius:12px; color:#fff; cursor:pointer">EXECUTE</button>
+            </div>
+            <div id="res-box" class="results">
+                <div id="table-out"></div>
+            </div>
         </div>
     </div>
     <script>
         const LIB = { 1: "SELECT YEAR, `STATE/UT`, TOTAL FROM (SELECT YEAR, `STATE/UT`, SUM(`TOTAL IPC CRIMES`) as TOTAL, DENSE_RANK() OVER(PARTITION BY YEAR ORDER BY SUM(`TOTAL IPC CRIMES`) DESC) as rk FROM crimes GROUP BY YEAR, `STATE/UT`) WHERE rk <= 3 ORDER BY YEAR DESC", 2: "SELECT YEAR, ROUND(AVG(`TOTAL IPC CRIMES`), 2) as Avg FROM crimes GROUP BY YEAR", 3: "SELECT `STATE/UT`, SUM(MURDER) as M, SUM(THEFT) as T FROM crimes GROUP BY `STATE/UT` ORDER BY M DESC", 4: "SELECT `STATE/UT`, DISTRICT, SUM(`TOTAL IPC CRIMES`) as T FROM crimes GROUP BY `STATE/UT`, DISTRICT ORDER BY T DESC LIMIT 15", 5: "SELECT `STATE/UT`, SUM(RAPE+`DOWRY DEATHS`) as T FROM crimes GROUP BY `STATE/UT` ORDER BY T DESC", 6: "SELECT YEAR, SUM(`TOTAL IPC CRIMES`) as T FROM crimes GROUP BY YEAR" };
         let h = {};
         async function init() {
-            h = await fetch('/api/hierarchy').then(r=>r.json());
+            h = await fetch('/api/hierarchy').then(r => r.json());
             const s = document.getElementById('state-sel'); s.innerHTML = '<option value="">State...</option>';
             Object.keys(h).sort().forEach(k => s.innerHTML += `<option value="${k}">${k}</option>`);
         }
         function loadDist() {
             const d = document.getElementById('dist-sel'); d.innerHTML = '<option value="">District...</option>';
-            if(h[document.getElementById('state-sel').value]) h[document.getElementById('state-sel').value].sort().forEach(k => d.innerHTML += `<option value="${k}">${k}</option>`);
+            if (h[document.getElementById('state-sel').value]) h[document.getElementById('state-sel').value].sort().forEach(k => d.innerHTML += `<option value="${k}">${k}</option>`);
         }
         async function predict() {
             const s = document.getElementById('state-sel').value, ds = document.getElementById('dist-sel').value;
-            if(!s || !ds) return;
-            const data = await fetch(`/api/predict-district?state=${encodeURIComponent(s)}&district=${encodeURIComponent(ds)}`).then(r=>r.json());
+            if (!s || !ds) return;
+            const data = await fetch(`/api/predict-district?state=${encodeURIComponent(s)}&district=${encodeURIComponent(ds)}`).then(r => r.json());
             const b = document.getElementById('risk-out'); b.style.display = 'block';
             document.getElementById('risk-val').innerText = data.risk;
             const c = data.risk.includes('High') ? 'var(--high)' : (data.risk.includes('Med') ? 'var(--med)' : 'var(--low)');
             document.getElementById('risk-val').style.color = c; b.style.background = `${c}10`;
-            document.getElementById('risk-det').innerHTML = Object.entries(data.features).map(([k,v])=>`<div><b>${k}:</b> ${Math.round(v).toLocaleString()}</div>`).join('');
+            document.getElementById('risk-det').innerHTML = Object.entries(data.features).map(([k, v]) => `<div><b>${k}:</b> ${Math.round(v).toLocaleString()}</div>`).join('');
         }
         function run() {
             const id = document.getElementById('sql-sel').value;
             document.getElementById('custom-box').style.display = id === 'custom' ? 'block' : 'none';
-            if(id && id !== 'custom') exec(LIB[id]);
+            if (id && id !== 'custom') exec(LIB[id]);
         }
         async function exec(q) {
             const out = document.getElementById('table-out'); out.innerHTML = '<div style="padding:2rem; opacity:0.5">Engine Processing...</div>';
             try {
-                const res = await fetch('/api/query', { method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({query:q}) }).then(r=>r.json());
-                if(res.length) {
-                    out.innerHTML = `<table><thead><tr>${Object.keys(res[0]).map(k=>`<th>${k}</th>`).join('')}</tr></thead><tbody>` + 
-                        res.map(r => `<tr>${Object.values(r).map(v=>`<td>${typeof v==='number'?v.toLocaleString():v}</td>`).join('')}</tr>`).join('') + `</tbody></table>`;
+                const res = await fetch('/api/query', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ query: q }) }).then(r => r.json());
+                if (res.length) {
+                    out.innerHTML = `<table><thead><tr>${Object.keys(res[0]).map(k => `<th>${k}</th>`).join('')}</tr></thead><tbody>` +
+                        res.map(r => `<tr>${Object.values(r).map(v => `<td>${typeof v === 'number' ? v.toLocaleString() : v}</td>`).join('')}</tr>`).join('') + `</tbody></table>`;
                 } else out.innerHTML = `<div style="padding:2rem; color:var(--high)">${res.error || 'Empty Results'}</div>`;
-            } catch(e) { out.innerHTML = 'Error Connecting to Engine'; }
+            } catch (e) { out.innerHTML = 'Error Connecting to Engine'; }
         }
         window.onload = init;
     </script>
 </body>
+
 </html>
