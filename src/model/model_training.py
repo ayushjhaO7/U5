@@ -47,8 +47,8 @@ def train_kmeans_model(data_path, model_path):
     scaler_model = scaler.fit(assembled_df)
     scaled_df = scaler_model.transform(assembled_df)
 
-    # K-Means (k=4 for better thresholding)
-    k = 4
+    # K-Means (k=3 for standard thresholding)
+    k = 3
     print(f">>> Cluster Training (k={k})...")
     kmeans = KMeans(featuresCol="scaledFeatures", predictionCol="cluster", k=k, seed=42)
     kmeans_model = kmeans.fit(scaled_df)
@@ -64,14 +64,12 @@ def train_kmeans_model(data_path, model_path):
     # Lowering Threshold: Top 2 clusters map to "High Risk"
     # Mapping logic:
     # 0 -> High Risk (Highest centroid)
-    # 1 -> High Risk (Second highest) -> Decreased threshold logic
-    # 2 -> Medium Risk
-    # 3 -> Low Risk
+    # 1 -> Medium Risk
+    # 2 -> Low Risk
     risk_mapping = {
         sorted_clusters[0][0]: "High Risk",
-        sorted_clusters[1][0]: "High Risk",
-        sorted_clusters[2][0]: "Medium Risk",
-        sorted_clusters[3][0]: "Low Risk"
+        sorted_clusters[1][0]: "Medium Risk",
+        sorted_clusters[2][0]: "Low Risk"
     }
 
     print("\n>>> District Risk Mapping complete (Decreased Threshold Applied).")
@@ -91,7 +89,7 @@ def train_kmeans_model(data_path, model_path):
     sk_scaler.n_samples_seen_ = np.int64(df.count())
     sk_scaler.feature_names_in_ = np.array(features)
 
-    # Train sklearn proxy with k=4
+    # Train sklearn proxy with k=3
     sk_kmeans = SKLearnKMeans(n_clusters=k, random_state=42, n_init=10)
     sk_kmeans.fit(sk_scaler.transform(pdf[features].values))
     sk_kmeans.cluster_centers_ = np.array(spark_centers)
@@ -113,7 +111,7 @@ def train_kmeans_model(data_path, model_path):
     meta = {
         "features": features,
         "risk_mapping": risk_mapping,
-        "engine": "District-Level PySpark Clustering (k=4)"
+        "engine": "District-Level PySpark Clustering (k=3)"
     }
     joblib.dump(meta, META_FILE)
 
