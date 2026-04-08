@@ -1,0 +1,52 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: crime-ai-devops
+  labels:
+    app: crime-ai-devops
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: crime-ai-devops
+  template:
+    metadata:
+      labels:
+        app: crime-ai-devops
+    spec:
+      containers:
+      - name: crime-ai-devops
+        image: crime-ai-hub:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 5000
+        resources:
+          limits:
+            cpu: "500m"
+            memory: "512Mi"
+          requests:
+            cpu: "250m"
+            memory: "256Mi"
+        livenessProbe:
+          httpGet:
+            path: /health
+            port: 5000
+          initialDelaySeconds: 15
+        readinessProbe:
+          httpGet:
+            path: /health
+            port: 5000
+          initialDelaySeconds: 10
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: crime-ai-service
+spec:
+  selector:
+    app: crime-ai-devops
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 5000
+  type: LoadBalancer

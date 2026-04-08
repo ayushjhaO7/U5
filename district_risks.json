@@ -1,0 +1,6462 @@
+{
+    "A & N ISLANDS|A and N ISLANDS": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "A & N ISLANDS|ANDAMAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "A & N ISLANDS|CAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "A & N ISLANDS|NICOBAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "A & N ISLANDS|NORTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "A & N ISLANDS|SOUTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "A&N Islands|CAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "A&N Islands|NORTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "A&N Islands|SOUTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ANDHRA PRADESH|ADILABAD": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|ANANTAPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|CHITTOOR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|CUDDAPAH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|CYBERABAD": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "ANDHRA PRADESH|EAST GODAVARI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|GUNTAKAL RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ANDHRA PRADESH|GUNTUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|GUNTUR URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ANDHRA PRADESH|HYDERABAD CITY": {
+        "risk_level": "High Risk",
+        "cluster_id": 1
+    },
+    "ANDHRA PRADESH|KARIMNAGAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|KHAMMAM": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|KRISHNA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|KURNOOL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|MAHABOOBNAGAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|MEDAK": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|NALGONDA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|NELLORE": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|NIZAMABAD": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|PRAKASHAM": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|RAJAHMUNDRY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ANDHRA PRADESH|RANGA REDDY": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|SECUNDERABAD RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ANDHRA PRADESH|SRIKAKULAM": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|TIRUPATHI URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ANDHRA PRADESH|VIJAYAWADA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|VIJAYAWADA CITY": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|VIJAYAWADA RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ANDHRA PRADESH|VISAKHA RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|VISAKHAPATNAM": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|VIZIANAGARAM": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|WARANGAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ANDHRA PRADESH|WARANGAL URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ANDHRA PRADESH|WEST GODAVARI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ARUNACHAL PRADESH|ANJAW": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ARUNACHAL PRADESH|CHANGLANG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ARUNACHAL PRADESH|DIBANG VALLEY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ARUNACHAL PRADESH|K/KUMEY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ARUNACHAL PRADESH|KAMENG EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ARUNACHAL PRADESH|KAMENG WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ARUNACHAL PRADESH|LOHIT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ARUNACHAL PRADESH|PAPUM PARE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ARUNACHAL PRADESH|RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ARUNACHAL PRADESH|SIANG EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ARUNACHAL PRADESH|SIANG UPPER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ARUNACHAL PRADESH|SIANG WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ARUNACHAL PRADESH|SUBANSIRI LOWER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ARUNACHAL PRADESH|SUBANSIRI UPPER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ARUNACHAL PRADESH|TAWANG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ARUNACHAL PRADESH|TIRAP": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ARUNACHAL PRADESH|UPPER DIBANG VALLEY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|BAKSA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|BARPETA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|BASKA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|BIEO": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|BONGAIGAON": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|C.I.D.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|CACHAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ASSAM|CHIRANG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|DARRANG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|DHEMAJI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|DHUBRI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|DIBRUGARH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ASSAM|G.R.P.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|GOALPARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|GOLAGHAT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|GUWAHATI CITY": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "ASSAM|HAILAKANDI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|HAMREN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|JORHAT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|KAMRUP": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|KARBI ANGLONG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|KARIMGANJ": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|KOKRAJHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|LAKHIMPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|MORIGAON": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|N.C.HILLS": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|NAGAON": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ASSAM|NALBARI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|R.P.O.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|SIBSAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ASSAM|SONITPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ASSAM|TINSUKIA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ASSAM|UDALGURI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|ADILABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|ANANTAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|CHITTOOR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|CUDDAPAH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|CYBERABAD": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "Andhra Pradesh|EAST GODAVARI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|GUNTAKAL RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|GUNTUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|GUNTUR URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|HYDERABAD CITY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|KARIMNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|KHAMMAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|KRISHNA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|KURNOOL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|MAHABOOBNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|MEDAK": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|NALGONDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|NELLORE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|NIZAMABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|PRAKASHAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|RAJAHMUNDRY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|RANGA REDDY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|SECUNDERABAD RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|SRIKAKULAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|TIRUPATHI URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|VIJAYAWADA CITY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|VIJAYAWADA RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|VISAKHA RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|VISAKHAPATNAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|VIZIANAGARAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|WARANGAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|WARANGAL URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Andhra Pradesh|WEST GODAVARI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|ANJAW": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|CHANGLANG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|DIBANG VALLEY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|K/KUMEY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|KAMENG EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|KAMENG WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|LOHIT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|LONGDING": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|PAPUM PARE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|SIANG EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|SIANG UPPER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|SIANG WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|SUBANSIRI LOWER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|SUBANSIRI UPPER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|TAWANG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|TIRAP": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Arunachal Pradesh|UPPER DIBANG VALLEY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|BAKSA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|BARPETA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|BIEO": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|BONGAIGAON": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|C.I.D.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|CACHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|CHIRANG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|DARRANG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|DHEMAJI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|DHUBRI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|DIBRUGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|G.R.P.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|GOALPARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|GOLAGHAT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|GUWAHATI CITY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|HAILAKANDI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|HAMREN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|JORHAT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|KAMRUP": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|KARBI ANGLONG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|KARIMGANJ": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|KOKRAJHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|LAKHIMPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|MORIGAON": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|N.C.HILLS": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|NAGAON": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|NALBARI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|R.P.O.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|SIBSAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|SONITPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|STF": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|TINSUKIA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Assam|UDALGURI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|ARARIA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|ARWAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|AURANGABAD": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "BIHAR|BAGAHA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|BANKA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|BEGUSARAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|BETTIAH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "BIHAR|BHABHUA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|BHAGALPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "BIHAR|BHOJPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "BIHAR|BUXAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|DARBHANGA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|GAYA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "BIHAR|GOPALGANJ": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|JAMALPUR RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|JAMUI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|JEHANABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|KATIHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|KATIHAR RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|KHAGARIA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|KISHANGANJ": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|LAKHISARAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|MADHEPURA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|MADHUBANI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "BIHAR|MOTIHARI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "BIHAR|MUNGER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|MUZAFFARPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "BIHAR|MUZAFFARPUR RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|NALANDA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "BIHAR|NAUGACHIA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|NAWADAH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|PATNA": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "BIHAR|PATNA RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|PURNEA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|ROHTAS": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "BIHAR|SAHARSA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|SAMASTIPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|SARAN": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "BIHAR|SHEIKHPURA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|SHEOHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|SITAMARHI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|SIWAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|SUPAUL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "BIHAR|VAISHALI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "Bihar|ARARIA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|ARWAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|AURANGABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|BAGAHA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|BANKA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|BEGUSARAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|BETTIAH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|BHABHUA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|BHAGALPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|BHOJPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|BUXAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|DARBHANGA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|GAYA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|GOPALGANJ": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|JAMALPUR RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|JAMUI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|JEHANABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|KATIHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|KATIHAR RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|KHAGARIA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|KISHANGANJ": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|LAKHISARAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|MADHEPURA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|MADHUBANI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|MOTIHARI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|MUNGER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|MUZAFFARPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|MUZAFFARPUR RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|NALANDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|NAUGACHIA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|NAWADAH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|PATNA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|PATNA RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|PURNEA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|ROHTAS": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|SAHARSA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|SAMASTIPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|SARAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|SHEIKHPURA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|SHEOHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|SITAMARHI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|SIWAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|SUPAUL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Bihar|VAISHALI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHANDIGARH|CHANDIGARH": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "CHHATTISGARH|BALOD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|BALODA BAZAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|BALRAMPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|BEMETARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|BILASPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "CHHATTISGARH|BIZAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|DANTEWARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|DHAMTARI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|DURG": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "CHHATTISGARH|GARIYABAND": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|GRP RAIPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|JAGDALPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|JANJGIR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "CHHATTISGARH|JASHPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|KABIRDHAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|KANKER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|KAWARDHA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|KONDAGAON": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|KORBA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "CHHATTISGARH|KORIYA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|MAHASAMUND": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|MUNGELI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|NARAYANPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|RAIGARH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "CHHATTISGARH|RAIPUR": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "CHHATTISGARH|RAJNANDGAON": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|SARGUJA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|SUKMA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "CHHATTISGARH|SURAJPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chandigarh|CHANDIGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|BALOD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|BALODA BAZAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|BALRAMPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|BEMETARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|BILASPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|BIZAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|DANTEWARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|DHAMTARI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|DURG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|GARIYABAND": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|GRP RAIPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|JAGDALPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|JANJGIR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|JASHPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|KABIRDHAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|KANKER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|KONDAGAON": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|KORBA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|KORIYA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|MAHASAMUND": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|MUNGELI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|NARAYANPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|RAIGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|RAIPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|RAJNANDGAON": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|SARGUJA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|SUKMA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Chhattisgarh|SURAJPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "D & N HAVELI|D and N HAVELI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "D&N Haveli|D&N HAVELI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "DAMAN & DIU|DAMAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "DAMAN & DIU|DIU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "DELHI UT|CAW": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "DELHI UT|CENTRAL": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "DELHI UT|CRIME BRANCH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "DELHI UT|EAST": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "DELHI UT|EOW": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "DELHI UT|G.R.P.(RLY)": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "DELHI UT|GRP(RLY)": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "DELHI UT|I.G.I. AIRPORT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "DELHI UT|IGI AIRPORT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "DELHI UT|NEW DELHI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "DELHI UT|NORTH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "DELHI UT|NORTH EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "DELHI UT|NORTH WEST": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "DELHI UT|NORTH-EAST": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "DELHI UT|NORTH-WEST": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "DELHI UT|OUTER": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "DELHI UT|S.T.F.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "DELHI UT|SOUTH": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "DELHI UT|SOUTH WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "DELHI UT|SOUTH-EAST": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "DELHI UT|SOUTH-WEST": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "DELHI UT|SPL CELL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "DELHI UT|STF": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "DELHI UT|WEST": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "Daman & Diu|DAMAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Daman & Diu|DIU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|CAW": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|CENTRAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|CRIME BRANCH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|EOW": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|GRP(RLY)": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|IGI AIRPORT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|METRO RAIL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|NEW DELHI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|NORTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|NORTH-EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|NORTH-WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|OUTER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|SOUTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|SOUTH-EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|SOUTH-WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|STF": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Delhi UT|WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GOA|NORTH GOA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GOA|SOUTH GOA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|AHMEDABAD COMMR.": {
+        "risk_level": "High Risk",
+        "cluster_id": 1
+    },
+    "GUJARAT|AHMEDABAD RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|AHWA-DANG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|AMRELI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|ANAND": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "GUJARAT|BHARUCH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "GUJARAT|BHAVNAGAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "GUJARAT|CID CRIME": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|DAHOD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|GANDHINAGAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "GUJARAT|HIMATNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|JAMNAGAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "GUJARAT|JUNAGADH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "GUJARAT|KHEDA NORTH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "GUJARAT|KUTCH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "GUJARAT|KUTCH (EAST(G))": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|KUTCH (WEST-BHUJ)": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|MEHSANA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "GUJARAT|NARMADA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|NAVSARI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|PALANPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "GUJARAT|PANCHMAHAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|PATAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|PORBANDAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|RAJKOT COMMR.": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "GUJARAT|RAJKOT RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "GUJARAT|SURAT COMMR.": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "GUJARAT|SURAT RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|SURENDRANAGAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "GUJARAT|TAPI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|VADODARA COMMR.": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "GUJARAT|VADODARA RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|VALSAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|W.RLY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|W.RLY AHMEDABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "GUJARAT|W.RLY VADODARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Goa|NORTH GOA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Goa|SOUTH GOA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|AHMEDABAD COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|AHMEDABAD RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|AHWA-DANG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|AMRELI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|ANAND": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|BHARUCH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|BHAVNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|CID CRIME": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|DAHOD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|GANDHINAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|HIMATNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|JAMNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|JUNAGADH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|KHEDA NORTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|KUTCH (EAST(G))": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|KUTCH (WEST-BHUJ)": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|MEHSANA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|NARMADA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|NAVSARI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|PALANPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|PANCHMAHAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|PATAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|PORBANDAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|RAJKOT COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|RAJKOT RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|SURAT COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|SURAT RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|SURENDRANAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|TAPI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|VADODARA COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|VADODARA RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|VALSAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|W.RLY AHMEDABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Gujarat|W.RLY VADODARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HARYANA|AMBALA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "HARYANA|AMBALA RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HARYANA|AMBALA URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HARYANA|BHIWANI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "HARYANA|FARIDABAD": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "HARYANA|FATEHABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HARYANA|GRP": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HARYANA|GURGAON": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "HARYANA|HISSAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "HARYANA|JHAJJAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HARYANA|JIND": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HARYANA|KAITHAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HARYANA|KARNAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "HARYANA|KURUKSHETRA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "HARYANA|MAHENDRAGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HARYANA|MEWAT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HARYANA|PALWAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HARYANA|PANCHKULA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HARYANA|PANIPAT": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "HARYANA|REWARI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HARYANA|ROHTAK": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "HARYANA|SIRSA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "HARYANA|SONIPAT": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "HARYANA|YAMUNANAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HIMACHAL PRADESH|BADDIPOLICEDIST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HIMACHAL PRADESH|BILASPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HIMACHAL PRADESH|CHAMBA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HIMACHAL PRADESH|CID": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HIMACHAL PRADESH|G.R.P.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HIMACHAL PRADESH|HAMIRPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HIMACHAL PRADESH|KANGRA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HIMACHAL PRADESH|KINNAUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HIMACHAL PRADESH|KULLU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HIMACHAL PRADESH|LAHAUL-SPITI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HIMACHAL PRADESH|MANDI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HIMACHAL PRADESH|SHIMLA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HIMACHAL PRADESH|SIRMAUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HIMACHAL PRADESH|SOLAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "HIMACHAL PRADESH|UNA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|AMBALA RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|AMBALA URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|BHIWANI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|FARIDABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|FATEHABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|GRP": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|GURGAON": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|HISSAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|I&P HARYANA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|JHAJJAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|JIND": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|KAITHAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|KARNAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|KURUKSHETRA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|MAHENDRAGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|MEWAT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|PALWAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|PANCHKULA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|PANIPAT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|REWARI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|ROHTAK": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|SIRSA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|SONIPAT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Haryana|YAMUNANAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Himachal Pradesh|BADDIPOLICEDIST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Himachal Pradesh|BILASPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Himachal Pradesh|CHAMBA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Himachal Pradesh|CID": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Himachal Pradesh|G.R.P.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Himachal Pradesh|HAMIRPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Himachal Pradesh|KANGRA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Himachal Pradesh|KINNAUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Himachal Pradesh|KULLU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Himachal Pradesh|LAHAUL-SPITI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Himachal Pradesh|MANDI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Himachal Pradesh|SHIMLA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Himachal Pradesh|SIRMAUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Himachal Pradesh|SOLAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Himachal Pradesh|UNA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|ANANTNAG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|AWANTIPORA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|BANDIPORA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|BARAMULLA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|BORDER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|BORDER DISTRICT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|BUDGAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|CRIME JAMMU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|CRIME KASHMIR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|CRIME SRINAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|DODA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|GANDERBAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|HANDWARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|JAMMU": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "JAMMU & KASHMIR|KARGIL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|KATHUA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|KISHTWAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|KULGAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|KUPWARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|LEH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|POONCH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|PULWAMA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|RAILWAYS": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|RAILWAYS JAMMU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|RAILWAYS KASHMIR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|RAILWAYS KATRA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|RAILWAYS KMR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|RAJOURI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|RAMBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|REASI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|SAMBA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|SHOPIAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|SOPORE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JAMMU & KASHMIR|SRINAGAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "JAMMU & KASHMIR|UDHAMPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|BOKARO": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "JHARKHAND|CHAIBASA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|CHATRA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|DEOGHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|DHANBAD": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "JHARKHAND|DHANBAD RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|DUMKA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|GARHWA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|GIRIDIH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|GODDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|GUMLA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|HAZARIBAGH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "JHARKHAND|JAMSHEDPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "JHARKHAND|JAMSHEDPUR RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|JAMTARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|KHUNTI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|KODERMA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|LATEHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|LOHARDAGGA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|PAKUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|PALAMU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|RAMGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|RANCHI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "JHARKHAND|SAHEBGANJ": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|SARAIKELA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "JHARKHAND|SIMDEGA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|ANANTNAG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|AWANTIPORA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|BANDIPORA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|BARAMULLA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|BUDGAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|CRIME JAMMU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|CRIME SRINAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|DODA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|GANDERBAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|HANDWARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|JAMMU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|KARGIL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|KATHUA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|KISHTWAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|KULGAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|KUPWARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|LEH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|POONCH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|PULWAMA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|RAILWAYS JAMMU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|RAILWAYS KASHMIR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|RAILWAYS KATRA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|RAJOURI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|RAMBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|REASI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|SAMBA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|SHOPIAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|SOPORE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|SRINAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jammu & Kashmir|UDHAMPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|BOKARO": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|CHAIBASA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|CHATRA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|DEOGHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|DHANBAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|DHANBAD RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|DUMKA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|GARHWA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|GIRIDIH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|GODDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|GUMLA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|HAZARIBAGH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|JAMSHEDPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|JAMSHEDPUR RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|JAMTARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|KHUNTI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|KODERMA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|LATEHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|LOHARDAGGA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|PAKUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|PALAMU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|RAMGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|RANCHI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|SAHEBGANJ": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|SARAIKELA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Jharkhand|SIMDEGA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|BAGALKOT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|BANGALORE COMMR.": {
+        "risk_level": "High Risk",
+        "cluster_id": 1
+    },
+    "KARNATAKA|BANGALORE RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|BELGAUM": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|BELLARY": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|BIDAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|BIJAPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|CBPURA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|CHAMARAJNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|CHICKMAGALUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|CHITRADURGA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|DAKSHIN KANNADA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|DAVANAGERE": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|DHARWAD COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|DHARWAD RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|GADAG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|GULBARGA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|HASSAN": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|HAVERI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|K.G.F.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|KODAGU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|KOLAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|KOPPAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|MANDYA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|MANGALORE CITY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|MYSORE COMMR.": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|MYSORE RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|RAICHUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|RAILWAYS": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|RAMANAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|SHIMOGA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|TUMKUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KARNATAKA|UDUPI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|UTTAR KANNADA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KARNATAKA|YADGIRI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KERALA|ALAPUZHA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KERALA|CBCID": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KERALA|ERNAKULAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KERALA|ERNAKULAM COMMR.": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KERALA|ERNAKULAM RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KERALA|IDUKKI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KERALA|KANNUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KERALA|KASARGOD": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KERALA|KOLLAM": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KERALA|KOLLAM COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KERALA|KOLLAM RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KERALA|KOTTAYAM": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KERALA|KOZHIKODE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KERALA|KOZHIKODE COMMR.": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KERALA|KOZHIKODE RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KERALA|MALAPPURAM": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KERALA|PALAKKAD": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KERALA|PATHANAMTHITTA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KERALA|RAILWAYS": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KERALA|THRISSUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KERALA|THRISSUR COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KERALA|THRISSUR RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KERALA|TRIVANDRUM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "KERALA|TRIVANDRUM COMMR.": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KERALA|TRIVANDRUM RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "KERALA|WAYANADU": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "Karnataka|BAGALKOT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|BANGALORE COMMR.": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "Karnataka|BANGALORE RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|BELGAUM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|BELLARY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|BIDAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|BIJAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|CBPURA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|CHAMARAJNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|CHICKMAGALUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|CHITRADURGA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|DAKSHIN KANNADA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|DAVANAGERE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|DHARWAD COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|DHARWAD RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|GADAG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|GULBARGA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|HASSAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|HAVERI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|K.G.F.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|KODAGU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|KOLAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|KOPPAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|MANDYA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|MANGALORE CITY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|MYSORE COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|MYSORE RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|RAICHUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|RAILWAYS": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|RAMANAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|SHIMOGA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|TUMKUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|UDUPI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|UTTAR KANNADA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Karnataka|YADGIRI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|ALAPUZHA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|ERNAKULAM COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|ERNAKULAM RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|IDUKKI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|KANNUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|KASARGOD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|KOLLAM COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|KOLLAM RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|KOTTAYAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|KOZHIKODE COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|KOZHIKODE RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|MALAPPURAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|PALAKKAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|PATHANAMTHITTA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|RAILWAYS": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|THRISSUR COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|THRISSUR RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|TRIVANDRUM COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|TRIVANDRUM RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Kerala|WAYANADU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "LAKSHADWEEP|LAKSHADWEEP": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Lakshadweep|LAKSHADWEEP": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|ALIRAJPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|ANUPPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|ASHOK NAGAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|BALAGHAT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|BARWANI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|BETUL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|BHIND": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|BHOPAL": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "MADHYA PRADESH|BHOPAL RLY.": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|BURHANPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|CHHATARPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|CHHINDWARA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|DAMOH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|DATIYA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|DEWAS": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|DHAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|DINDORI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|GUNA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|GWALIOR": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "MADHYA PRADESH|HARDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|HOSHANGABAD": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|INDORE": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "MADHYA PRADESH|INDORE RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|JABALPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|JABALPUR RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|JHABUA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|KATNI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|KHANDWA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|KHARGON": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|MANDLA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|MANDSAUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|MORENA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|NARSINGHPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|NEEMUCH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|PANNA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|RAISEN": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|RAJGARH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|RATLAM": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|REWA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|SAGAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|SATNA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|SEONI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|SHAHDOL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|SHAJAPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|SHEOPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|SHIVPURI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|SIDHI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|SIHORE": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|SINGRAULI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|TIKAMGARH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MADHYA PRADESH|UJJAIN": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "MADHYA PRADESH|UMARIYA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MADHYA PRADESH|VIDISHA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|AHMEDNAGAR": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "MAHARASHTRA|AKOLA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|AMRAVATI COMMR.": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|AMRAVATI RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|AURANGABAD COMMR.": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|AURANGABAD RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|BEED": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|BHANDARA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|BULDHANA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|CHANDRAPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|DHULE": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|GADCHIROLI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MAHARASHTRA|GONDIA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|HINGOLI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MAHARASHTRA|JALGAON": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|JALNA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|KOLHAPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|LATUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|MUMBAI": {
+        "risk_level": "High Risk",
+        "cluster_id": 1
+    },
+    "MAHARASHTRA|MUMBAI COMMR.": {
+        "risk_level": "High Risk",
+        "cluster_id": 1
+    },
+    "MAHARASHTRA|MUMBAI RLY.": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "MAHARASHTRA|NAGPUR COMMR.": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "MAHARASHTRA|NAGPUR RLY.": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|NAGPUR RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|NANDED": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|NANDURBAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MAHARASHTRA|NASIK COMMR.": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "MAHARASHTRA|NASIK RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|NAVI MUMBAI": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "MAHARASHTRA|OSMANABAD": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|PARBHANI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|PUNE COMMR.": {
+        "risk_level": "High Risk",
+        "cluster_id": 1
+    },
+    "MAHARASHTRA|PUNE RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MAHARASHTRA|PUNE RURAL": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "MAHARASHTRA|RAIGAD": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|RATNAGIRI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MAHARASHTRA|SANGLI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|SATARA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|SINDHUDURG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MAHARASHTRA|SOLAPUR COMMR.": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|SOLAPUR RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|THANE COMMR.": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "MAHARASHTRA|THANE RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|WARDHA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|WASHIM": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MAHARASHTRA|YAVATMAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "MANIPUR|BISHNUPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MANIPUR|CHANDEL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MANIPUR|CHURACHANDPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MANIPUR|CID": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MANIPUR|IMPHAL EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MANIPUR|IMPHAL WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MANIPUR|IMPHAL(EAST)": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MANIPUR|IMPHAL(WEST)": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MANIPUR|SENAPATI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MANIPUR|TAMENGLONG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MANIPUR|THOUBAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MANIPUR|UKHRUL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MEGHALAYA|GARO HILLS EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MEGHALAYA|GARO HILLS SOUTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MEGHALAYA|GARO HILLS WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MEGHALAYA|JAINTIA HILLS": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MEGHALAYA|KHASI HILLS EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MEGHALAYA|KHASI HILLS WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MEGHALAYA|RI-BHOI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MIZORAM|AIZAWL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MIZORAM|CHAMPHAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MIZORAM|KOLASIB": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MIZORAM|LAWNGTLAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MIZORAM|LUNGLEI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MIZORAM|MAMIT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MIZORAM|SAIHA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "MIZORAM|SERCHHIP": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|AGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|ALIRAJPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|ANUPPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|ASHOK NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|BALAGHAT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|BARWANI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|BETUL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|BHIND": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|BHOPAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|BHOPAL RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|BURHANPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|CHHATARPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|CHHINDWARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|DAMOH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|DATIYA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|DEWAS": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|DHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|DINDORI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|GUNA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|GWALIOR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|HARDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|HOSHANGABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|INDORE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|INDORE RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|JABALPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|JABALPUR RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|JHABUA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|KATNI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|KHANDWA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|KHARGON": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|MANDLA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|MANDSAUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|MORENA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|NARSINGHPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|NEEMUCH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|PANNA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|RAISEN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|RAJGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|RATLAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|REWA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|SAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|SATNA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|SEONI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|SHAHDOL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|SHAJAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|SHEOPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|SHIVPURI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|SIDHI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|SIHORE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|SINGRAULI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|TIKAMGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|UJJAIN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|UMARIYA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Madhya Pradesh|VIDISHA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|AHMEDNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|AKOLA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|AMRAVATI COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|AMRAVATI RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|AURANGABAD COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|AURANGABAD RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|BEED": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|BHANDARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|BULDHANA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|CHANDRAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|DHULE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|GADCHIROLI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|GONDIA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|HINGOLI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|JALGAON": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|JALNA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|KOLHAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|LATUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|MUMBAI COMMR.": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "Maharashtra|MUMBAI RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|NAGPUR COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|NAGPUR RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|NAGPUR RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|NANDED": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|NANDURBAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|NASIK COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|NASIK RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|NAVI MUMBAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|OSMANABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|PARBHANI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|PUNE COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|PUNE RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|PUNE RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|RAIGAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|RATNAGIRI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|SANGLI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|SATARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|SINDHUDURG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|SOLAPUR COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|SOLAPUR RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|THANE COMMR.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|THANE RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|WARDHA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|WASHIM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Maharashtra|YAVATMAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Manipur|BISHNUPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Manipur|CHANDEL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Manipur|CHURACHANDPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Manipur|CID": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Manipur|IMPHAL EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Manipur|IMPHAL WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Manipur|SENAPATI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Manipur|TAMENGLONG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Manipur|THOUBAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Manipur|UKHRUL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Meghalaya|GARO HILLS EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Meghalaya|GARO HILLS NORTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Meghalaya|GARO HILLS SOUTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Meghalaya|GARO HILLS SOUTH W.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Meghalaya|GARO HILLS WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Meghalaya|JAINTIA HILLS EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Meghalaya|JAINTIA HILLS WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Meghalaya|KHASI HILLS EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Meghalaya|KHASI HILLS SOUTH W.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Meghalaya|KHASI HILLS WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Meghalaya|RI-BHOI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Mizoram|AIZAWL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Mizoram|CHAMPHAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Mizoram|KOLASIB": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Mizoram|LAWNGTLAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Mizoram|LUNGLEI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Mizoram|MAMIT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Mizoram|SAIHA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Mizoram|SERCHHIP": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Mizoram|SPL NARCOTIC": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Mizoram|TRAFFIC PS": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "NAGALAND|DIMAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "NAGALAND|KIPHIRE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "NAGALAND|KOHIMA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "NAGALAND|LONGLENG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "NAGALAND|MOKOKCHUNG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "NAGALAND|MON": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "NAGALAND|PEREN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "NAGALAND|PHEK": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "NAGALAND|TUENSANG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "NAGALAND|WOKHA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "NAGALAND|ZUNHEBOTO": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Nagaland|DIMAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Nagaland|KIPHIRE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Nagaland|KOHIMA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Nagaland|LONGLENG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Nagaland|MOKOKCHUNG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Nagaland|MON": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Nagaland|PEREN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Nagaland|PHEK": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Nagaland|TUENSANG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Nagaland|WOKHA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Nagaland|ZUNHEBOTO": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|ANGUL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|BALASORE": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ODISHA|BARAGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|BERHAMPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|BHADRAK": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|BOLANGIR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|BOUDH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|CUTTACK": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ODISHA|DCP BBSR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ODISHA|DCP CTC": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|DEOGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|DHENKANAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|GAJAPATI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|GANJAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|JAGATSINGHPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|JAJPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ODISHA|JHARSUGUDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|KALAHANDI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|KANDHAMAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|KENDRAPARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|KEONJHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|KHURDA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "ODISHA|KORAPUT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|MALKANGIR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|MAYURBHANJ": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|NAYAGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|NOWRANGPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|NUAPADA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|PURI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|RAYAGADA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|ROURKELA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|SAMBALPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|SONEPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|SRP(CUTTACK)": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|SRP(ROURKELA)": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "ODISHA|SUNDARGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|ANGUL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|BALASORE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|BARAGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|BERHAMPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|BHADRAK": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|BOLANGIR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|BOUDH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|CUTTACK": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|DCP BBSR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|DCP CTC": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|DEOGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|DHENKANAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|GAJAPATI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|GANJAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|JAGATSINGHPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|JAJPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|JHARSUGUDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|KALAHANDI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|KANDHAMAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|KENDRAPARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|KEONJHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|KHURDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|KORAPUT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|MALKANGIR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|MAYURBHANJ": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|NAYAGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|NOWRANGPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|NUAPADA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|PURI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|RAYAGADA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|ROURKELA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|SAMBALPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|SONEPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|SRP(CUTTACK)": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|SRP(ROURKELA)": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Odisha|SUNDARGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUDUCHERRY|KARAIKAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUDUCHERRY|PONDICHERRY": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "PUDUCHERRY|PUDUCHERRY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|AMRITSAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|AMRITSAR RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|BARNALA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|BATALA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|BHATINDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|CP AMRITSAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|CP JALANDHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|CP LUDHIANA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|FARIDKOT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|FATEHGARH SAHIB": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|FAZILKA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|FEROZEPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|FEROZPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|G.R.P": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|GURDASPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|HOSHIARPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|JAGRAON": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|JALANDHAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "PUNJAB|JALANDHAR RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|KAPURTHALA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|KHANNA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|LUDHIANA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "PUNJAB|LUDHIANA RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|MAJITHA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|MANSA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|MOGA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|MUKTSAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|NAWAN SHAHR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|PATHANKOT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|PATIALA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "PUNJAB|ROPAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|SANGRUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|SAS NGR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|SBS NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "PUNJAB|TARN TARAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Puducherry|KARAIKAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Puducherry|PUDUCHERRY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|AMRITSAR RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|BARNALA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|BATALA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|BHATINDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|CP AMRITSAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|CP JALANDHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|CP LUDHIANA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|FARIDKOT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|FATEHGARH SAHIB": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|FAZILKA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|FEROZPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|G.R.P": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|GURDASPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|HOSHIARPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|JALANDHAR RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|KAPURTHALA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|KHANNA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|LUDHIANA RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|MANSA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|MOGA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|MUKTSAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|PATHANKOT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|PATIALA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|ROPAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|SANGRUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|SAS NGR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|SBS NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Punjab|TARN TARAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|AJMER": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|ALWAR": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "RAJASTHAN|BANSWARA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|BARAN": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|BARMER": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|BHARATPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|BHILWARA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|BIKANER": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|BUNDI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|CHITTORGARH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|CHURU": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|DAUSA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|DHOLPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|DUNGARPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|G.R.P.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|G.R.P. AJMER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|G.R.P. JODHPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|G.R.P.AJMER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|G.R.P.JODHPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|GANGANAGAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|HANUMANGARH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|JAIPUR": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "RAJASTHAN|JAIPUR EAST": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "RAJASTHAN|JAIPUR NORTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|JAIPUR RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|JAIPUR SOUTH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|JAIPUR WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|JAISALMER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|JALORE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|JHALAWAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|JHUNJHUNU": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|JODHPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|JODHPUR CITY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|JODHPUR EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|JODHPUR RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|JODHPUR WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|KARAULI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|KOTA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|KOTA CITY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|KOTA RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|NAGAUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|PALI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|PRATAPGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|RAJSAMAND": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|SAWAI MADHOPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|SIKAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|SIROHI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "RAJASTHAN|TONK": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "RAJASTHAN|UDAIPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "Rajasthan|AJMER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|ALWAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|BANSWARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|BARAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|BARMER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|BHARATPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|BHILWARA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|BIKANER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|BUNDI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|CHITTORGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|CHURU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|DAUSA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|DHOLPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|DISCOM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|DUNGARPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|G.R.P.AJMER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|G.R.P.JODHPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|GANGANAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|HANUMANGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|JAIPUR EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|JAIPUR NORTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|JAIPUR RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|JAIPUR SOUTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|JAIPUR WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|JAISALMER": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|JALORE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|JHALAWAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|JHUNJHUNU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|JODHPUR EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|JODHPUR RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|JODHPUR WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|KARAULI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|KOTA CITY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|KOTA RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|NAGAUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|PALI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|PRATAPGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|RAJSAMAND": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|SAWAI MADHOPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|SIKAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|SIROHI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|TONK": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Rajasthan|UDAIPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "SIKKIM|EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "SIKKIM|NORTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "SIKKIM|SOUTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "SIKKIM|WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Sikkim|EAST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Sikkim|NORTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Sikkim|SOUTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Sikkim|WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|ARIYALUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|CHENGAI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|CHENNAI": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "TAMIL NADU|CHENNAI RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|CHENNAISUBURBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|COIMBATORE RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|COIMBATORE URBAN": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|CUDDALORE": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|DHARMAPURI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|DINDIGUL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|ERODE": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|KANCHIPURAM": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|KANYAKUMARI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|KARUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|KRISHNAGIRI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|MADURAI RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|MADURAI URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|NAGAPATTINAM": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|NAMAKKAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|NILGIRIS": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|PERAMBALUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|PUDUKOTTAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|RAMNATHAPURAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|SALEM RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|SALEM URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|SIVAGANGAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|THANJAVUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|THENI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|THIRUNELVELI RURAL": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|THIRUNELVELI URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|THIRUVALLUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|THIRUVANNAMALAI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|THIRUVARUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|THOOTHUGUDI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|TIRUPPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|TRICHY RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|TRICHY RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|TRICHY URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|VELLORE": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|VILLUPURAM": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TAMIL NADU|VILUPPURAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TAMIL NADU|VIRUDHUNAGAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "TRIPURA|DHALAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TRIPURA|G.R.P.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TRIPURA|GOMATI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TRIPURA|GRP": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TRIPURA|KHOWAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TRIPURA|NORTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TRIPURA|SIPAHIJALA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TRIPURA|SOUTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TRIPURA|UNAKOTI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "TRIPURA|WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|ARIYALUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|CHENNAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|CHENNAI RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|COIMBATORE RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|COIMBATORE URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|CUDDALORE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|DHARMAPURI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|DINDIGUL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|ERODE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|KANCHIPURAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|KANYAKUMARI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|KARUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|KRISHNAGIRI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|MADURAI RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|MADURAI URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|NAGAPATTINAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|NAMAKKAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|NILGIRIS": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|PERAMBALUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|PUDUKOTTAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|RAMNATHAPURAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|SALEM RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|SALEM URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|SIVAGANGAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|THANJAVUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|THENI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|THIRUNELVELI RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|THIRUNELVELI URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|THIRUVALLUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|THIRUVANNAMALAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|THIRUVARUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|THOOTHUGUDI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|TIRUPPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|TRICHY RLY.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|TRICHY RURAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|TRICHY URBAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|VELLORE": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|VILLUPURAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tamil Nadu|VIRUDHUNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tripura|DHALAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tripura|GOMATI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tripura|GRP": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tripura|KHOWAI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tripura|NORTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tripura|SIPAHIJALA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tripura|SOUTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tripura|UNAKOTI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Tripura|WEST": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|AGRA": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "UTTAR PRADESH|ALIGARH": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "UTTAR PRADESH|ALLAHABAD": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "UTTAR PRADESH|AMBEDKAR NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|AURAIYA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|AZAMGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|BADAUN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|BAGHPAT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|BAHRAICH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|BALLIA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|BALRAMPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|BANDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|BARABANKI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|BAREILLY": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "UTTAR PRADESH|BASTI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|BHIM NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|BIJNOR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|BULANDSHAHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|CHANDOLI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|CHITRAKOOT DHAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|CSM NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|DEORIA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|ETAH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|ETAWAH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|FAIZABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|FATEHGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|FATEHPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|FIROZABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|G.R.P.": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "UTTAR PRADESH|GAUTAMBUDH NAGAR": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "UTTAR PRADESH|GHAZIABAD": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "UTTAR PRADESH|GHAZIPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|GONDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|GORAKHPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "UTTAR PRADESH|HAMIRPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|HARDOI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|HATHRAS": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|J.P.NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|JALAUN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|JAUNPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|JHANSI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|KANNAUJ": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|KANPUR DEHAT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|KANPUR NAGAR": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "UTTAR PRADESH|KANSHIRAM NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|KAUSHAMBI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|KHIRI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|KUSHI NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|LALITPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|LUCKNOW": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "UTTAR PRADESH|MAHARAJGANJ": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|MAHOBA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|MAINPURI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|MATHURA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|MAU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|MEERUT": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "UTTAR PRADESH|MIRZAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|MORADABAD": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "UTTAR PRADESH|MUZAFFARNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|PANCHSHIL NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|PILIBHIT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|PRABUDDH NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|PRATAPGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|RAIBAREILLY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|RAMABAI NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|RAMPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|SAHARANPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|SANT KABIRNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|SHAHJAHANPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|SHRAWASTI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|SIDHARTHNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|SITAPUR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "UTTAR PRADESH|SONBHADRA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|ST.RAVIDASNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|SULTANPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|UNNAO": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTAR PRADESH|VARANASI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "UTTARAKHAND|ALMORA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTARAKHAND|BAGESHWAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTARAKHAND|CHAMOLI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTARAKHAND|CHAMPAWAT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTARAKHAND|DEHRADUN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTARAKHAND|HARIDWAR": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "UTTARAKHAND|NAINITAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTARAKHAND|PAURI GARHWAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTARAKHAND|PITHORAGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTARAKHAND|RUDRA PRAYAG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTARAKHAND|TEHRI GARHWAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTARAKHAND|UDHAMSINGH NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "UTTARAKHAND|UTTARKASHI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|AGRA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|ALIGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|ALLAHABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|AMBEDKAR NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|AMETHI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|AMROHA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|AURAIYA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|AZAMGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|BADAUN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|BAGHPAT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|BAHRAICH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|BALLIA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|BALRAMPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|BANDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|BARABANKI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|BAREILLY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|BASTI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|BIJNOR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|BULANDSHAHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|CHANDOLI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|CHITRAKOOT DHAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|DEORIA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|ETAH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|ETAWAH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|FAIZABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|FATEHGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|FATEHPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|FIROZABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|G.R.P.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|GAUTAMBUDH NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|GHAZIABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|GHAZIPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|GONDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|GORAKHPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|HAMIRPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|HAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|HARDOI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|HATHRAS": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|JALAUN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|JAUNPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|JHANSI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|KANNAUJ": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|KANPUR DEHAT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|KANPUR NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|KASGANJ": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|KAUSHAMBI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|KHIRI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|KUSHI NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|LALITPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|LUCKNOW": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|MAHARAJGANJ": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|MAHOBA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|MAINPURI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|MATHURA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|MAU": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|MEERUT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|MIRZAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|MORADABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|MUZAFFARNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|PILIBHIT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|PRATAPGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|RAIBAREILLY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|RAMPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|SAHARANPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|SAMBHAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|SANT KABIRNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|SHAHJAHANPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|SHAMLI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|SHRAWASTI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|SIDHARTHNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|SITAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|SONBHADRA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|ST.RAVIDASNAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|SULTANPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|UNNAO": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttar Pradesh|VARANASI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttarakhand|ALMORA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttarakhand|BAGESHWAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttarakhand|CHAMOLI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttarakhand|CHAMPAWAT": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttarakhand|DEHRADUN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttarakhand|HARIDWAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttarakhand|NAINITAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttarakhand|PAURI GARHWAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttarakhand|PITHORAGARH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttarakhand|RUDRA PRAYAG": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttarakhand|TEHRI GARHWAL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttarakhand|UDHAMSINGH NAGAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "Uttarakhand|UTTARKASHI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|24 PARGANAS NORTH": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "WEST BENGAL|24 PARGANAS SOUTH": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "WEST BENGAL|ASANSOL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|BANKURA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|BDN CP": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|BIRBHUM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|BKP CP": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|BURDWAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|COOCHBEHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|DAKSHIN DINAJPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|DARJEELING": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "WEST BENGAL|HOOGHLY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|HOWRAH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|HOWRAH CITY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|HOWRAH G.R.P.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|JALPAIGURI": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "WEST BENGAL|JHARGRAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|KHARAGPUR G.R.P.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|KOLKATA": {
+        "risk_level": "High Risk",
+        "cluster_id": 3
+    },
+    "WEST BENGAL|MALDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|MIDNAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|MURSHIDABAD": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "WEST BENGAL|NADIA": {
+        "risk_level": "Medium Risk",
+        "cluster_id": 2
+    },
+    "WEST BENGAL|PASCHIM MIDNAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|PURAB MIDNAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|PURULIA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|SEALDAH G.R.P.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|SILIGURI G.R.P.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|SILIGURI_PC": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "WEST BENGAL|UTTAR DINAJPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|24 PARGANAS NORTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|24 PARGANAS SOUTH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|ASANSOL": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|BANKURA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|BDN CP": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|BIRBHUM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|BKP CP": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|BURDWAN": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|COOCHBEHAR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|DAKSHIN DINAJPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|DARJEELING": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|HOOGHLY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|HOWRAH": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|HOWRAH CITY": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|HOWRAH G.R.P.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|JALPAIGURI": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|JHARGRAM": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|KHARAGPUR G.R.P.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|KOLKATA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|MALDA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|MURSHIDABAD": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|NADIA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|PASCHIM MIDNAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|PURAB MIDNAPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|PURULIA": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|SEALDAH G.R.P.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|SILIGURI G.R.P.": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|SILIGURI_PC": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    },
+    "West Bengal|UTTAR DINAJPUR": {
+        "risk_level": "Low Risk",
+        "cluster_id": 0
+    }
+}

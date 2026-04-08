@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+joblib
+flask
+pytest
+pyspark
+matplotlib
+pandasql

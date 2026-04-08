@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analysis Hub | AI Crime Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        :root { --bg: #030712; --card: rgba(17, 24, 39, 0.7); --border: rgba(255, 255, 255, 0.08); --accent: #6366f1; --high: #ef4444; --med: #f59e0b; --low: #10b981; --text: #f9fafb; --text-muted: #9ca3af; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { background: var(--bg); color: var(--text); font-family: 'Plus Jakarta Sans', sans-serif; height: 100vh; display: grid; grid-template-columns: 1fr 380px; overflow: hidden; }
+        #map { height: 100%; width: 100%; background: #010309; }
+        .map-overlay { position: absolute; top: 1.5rem; left: 1.5rem; z-index: 1000; pointer-events: none; }
+        .map-card { background: var(--card); backdrop-filter: blur(20px); border: 1px solid var(--border); padding: 1.5rem; border-radius: 20px; }
+        #sidebar { background: #000; padding: 1.5rem; overflow-y: auto; border-left: 1px solid var(--border); }
+        .pulse-card { background: var(--card); border: 1px solid var(--border); padding: 1rem; border-radius: 12px; margin-bottom: 1rem; transition: 0.3s; }
+        .pulse-card:hover { border-color: var(--accent); transform: translateX(5px); }
+        .bar-fill { height: 4px; border-radius: 4px; transition: width 1s; }
+        .legend { background: var(--card); padding: 0.8rem; border-radius: 10px; border: 1px solid var(--border); font-size: 0.7rem; font-weight: 700; }
+        .legend i { width: 10px; height: 10px; border-radius: 50%; display: inline-block; margin-right: 5px; }
+    </style>
+</head>
+<body>
+    <div style="position:relative">
+        <div class="map-overlay"><div class="map-card">
+            <h1 style="font-size:2rem; letter-spacing:-1px">Analysis <span style="color:var(--accent); font-weight:400">Hub</span></h1>
+            <p style="color:var(--text-muted); font-size:0.8rem">Crime Risk Analytics</p>
+        </div></div>
+        <div id="map"></div>
+    </div>
+    <div id="sidebar">
+        <h2 style="font-size:1rem; margin-bottom:1.5rem">🔥 Critical Districts</h2>
+        <div id="pulse-list"></div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script>
+        const CLRS = { 3: '#ef4444', 2: '#f59e0b', 1: '#10b981', 0: '#4b5563' };
+        let map, layer;
+
+        async function init() {
+            map = L.map('map', { zoomControl: false, attributionControl: false }).setView([22, 80], 5);
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png').addTo(map);
+            try {
+                const [risks, stats] = await Promise.all([fetch('/api/state-risk').then(r=>r.json()), fetch('/api/district-intensity').then(r=>r.json())]);
+                const geo = await fetch("https://raw.githubusercontent.com/geohacker/india/master/state/india_telengana.geojson").then(r=>r.json());
+                
+                layer = L.geoJson(geo, {
+                    style: (f) => ({ fillColor: CLRS[(risks[f.properties.NAME_1]||{}).risk_score||0], weight: 1, opacity: 0.3, color: '#fff', fillOpacity: 0.8 }),
+                    onEachFeature: (f, l) => {
+                        const r = risks[f.properties.NAME_1];
+                        if(r) {
+                            l.bindTooltip(`<b>${f.properties.NAME_1}</b><br>Risk: ${r.risk_level}<br>Crimes: ${r.total_crimes.toLocaleString()}`, { sticky: true });
+                            l.on('mouseover', (e) => (e.target.setStyle({ fillOpacity: 1, weight: 2 }), e.target.bringToFront()));
+                            l.on('mouseout', (e) => layer.resetStyle(e.target));
+                        }
+                    }
+                }).addTo(map);
+
+                const sidebar = document.getElementById('pulse-list');
+                const sorted = stats.sort((a,b)=>b.total-a.total).slice(0, 15);
+                const max = sorted[0].total;
+                sidebar.innerHTML = sorted.map(d => `
+                    <div class="pulse-card">
+                        <div style="font-size:0.8rem; font-weight:800">${d.district}</div>
+                        <div style="color:var(--text-muted); font-size:0.6rem; margin-bottom:5px">${d.state}</div>
+                        <div style="background:rgba(255,255,255,0.1); border-radius:4px"><div class="bar-fill" style="width:${(d.total/max)*100}%; background:${d.total>15000?CLRS[3]:(d.total>8000?CLRS[2]:CLRS[1])}"></div></div>
+                    </div>`).join('');
+
+                const legend = L.control({position: 'bottomleft'});
+                legend.onAdd = () => {
+                    const d = L.DomUtil.create('div', 'legend');
+                    d.innerHTML = 'LEVELS<br>' + Object.entries({High:CLRS[3], Med:CLRS[2], Low:CLRS[1]}).map(([l,c])=>`<div><i style="background:${c}"></i> ${l}</div>`).join('');
+                    return d;
+                };
+                legend.addTo(map);
+            } catch(e) { 
+                console.error(e);
+                document.getElementById('pulse-list').innerHTML = '<div style="padding:1rem; color:var(--high)">System Sync Error</div>';
+            }
+        }
+        window.onload = init;
+    </script>
+</body>
+</html>

@@ -1,0 +1,57 @@
+name: Unit V — AI Crime Analytics CI/CD
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  build-and-verify:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r U5/requirements.txt
+        pip install flake8
+
+    - name: Data Ingestion
+      run: |
+        cd U5
+        CRIME_DATA_PATH=../crime---analysis/data/cleaned_crime_data.csv python src/data/data_preparation.py
+
+    - name: Model Training (PySpark K-Means)
+      run: |
+        cd U5
+        python src/model/model_training.py
+
+    - name: Build & Launch Docker Stack
+      run: |
+        cd U5
+        docker-compose build
+        docker-compose up -d
+        sleep 15
+
+    - name: Verify Dashboard
+      run: |
+        curl -f http://localhost:5000/ | grep "Crime Analytics Hub"
+
+    - name: Verify API Health
+      run: |
+        curl -f http://localhost:5000/health
+
+    - name: Cleanup
+      if: always()
+      run: |
+        cd U5
+        docker-compose down -v

@@ -1,0 +1,39 @@
+services:
+  # ────────────────────────────────────────────────────────
+  # SERVICE 1 [LEAD]: Visual Analytics Hub
+  # Merged: Indian Map Heatmap + Hotspot Intensity Grid
+  # ────────────────────────────────────────────────────────
+  service-analytics:
+    build: .
+    container_name: crime-visual-analytics
+    ports:
+      - "5001:5001"
+    environment:
+      - SERVICE_TYPE=analytics
+      - PORT=5001
+      - SHARED_DIR=/app/shared
+    volumes:
+      - shared_model:/app/shared
+      - ./../crime---analysis/data/Crimes_in_india_2001-2013.csv:/app/data/Crimes_in_india_2001-2013.csv
+
+  # ────────────────────────────────────────────────────────
+  # SERVICE 2: Operational Engine
+  # Merged: AI Predictor + Interactive PySpark SQL Terminal
+  # ────────────────────────────────────────────────────────
+  service-prediction:
+    build: .
+    container_name: crime-operational-engine
+    ports:
+      - "5002:5002"
+    environment:
+      - SERVICE_TYPE=prediction
+      - PORT=5002
+      - SHARED_DIR=/app/shared
+    depends_on:
+      - service-analytics
+    volumes:
+      - shared_model:/app/shared
+      - ./../crime---analysis/data/Crimes_in_india_2001-2013.csv:/app/data/Crimes_in_india_2001-2013.csv
+
+volumes:
+  shared_model:
