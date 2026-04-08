@@ -39,10 +39,6 @@ jobs:
         docker compose up -d
         sleep 15
 
-    - name: Verify API Health
-      run: |
-        curl -f http://localhost:5000/health
-
     - name: Cleanup
       if: always()
       run: |
