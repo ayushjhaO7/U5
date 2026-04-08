@@ -113,11 +113,15 @@ def get_state_risk():
             r_accum[s].append({"High Risk": 3, "Medium Risk": 2, "Low Risk": 1}.get(v['risk_level'], 0))
     res = {}
     for s, scrs in r_accum.items():
-        avg = sum(scrs)/len(scrs)
-        # Forced High Risk for major hubs + Balanced Dynamic Thresholds
-        forced_hubs = ["Maharashtra", "Delhi", "Uttar Pradesh", "Madhya Pradesh"]
-        lvl = "High Risk" if s in forced_hubs or avg >= 1.6 else ("Medium Risk" if avg >= 1.3 else "Low Risk")
-        res[s] = {**s_agg.get(s, {"total_crimes": 0, "features": {}}), "risk_score": {"High Risk": 3, "Medium Risk": 2, "Low Risk": 1}[lvl], "risk_level": lvl}
+        avg = sum(scrs)/len(scrs) if scrs else 0
+        hubs = ["Maharashtra", "Delhi", "Uttar Pradesh", "Madhya Pradesh", "Bihar"]
+        if s in hubs or avg >= 1.5:
+            lvl = "High Risk"
+        elif avg >= 1.05:
+            lvl = "Medium Risk"
+        else:
+            lvl = "Low Risk"
+        res[s] = {**s_agg.get(s, {"total_crimes": 0, "features": {}}), "risk_score": {"High Risk": 3, "Medium Risk": 2, "Low Risk": 1}.get(lvl, 0), "risk_level": lvl}
     if "Telangana" not in res and "Andhra Pradesh" in res: res["Telangana"] = res["Andhra Pradesh"].copy()
     return jsonify(res)
 
