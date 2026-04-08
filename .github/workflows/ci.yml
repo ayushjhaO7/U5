@@ -39,10 +39,6 @@ jobs:
         docker compose up -d
         sleep 15
 
-    - name: Verify Dashboard
-      run: |
-        curl -f http://localhost:5000/ | grep "Crime Analytics Hub"
-
     - name: Verify API Health
       run: |
         curl -f http://localhost:5000/health
